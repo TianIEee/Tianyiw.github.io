@@ -12,7 +12,7 @@ I am very fortunate to be adviced by [Prof.Jackie Masterson] (https://profiles.u
 
 You can find my CV here: [Tianyi's Curriculum Vitae](.../assets/Curriculum_Vitae.pdf)
 
-Email:qtnvt6@ucl.ac.uk
+Email: qtnvt6@ucl.ac.uk
 
 Educational Background
 ======
@@ -25,3 +25,22 @@ University of Durham, UK
 BA in English (2014-2018)
 BA in Law (Combined degress)
 Hohai University, Nanjing, China
+
+Research Projects
+======
+Cross-sectional studies in reading and spelling development in Chinese
+Clinical interventions (based on visual attention span) to children and adult with reading difficulty
+
+Past Experiences
+======
+UCL Post graduate teaching assistant (PGTA, 2021-2022)
+Modules: Research Methods and Statistics (BSc Psychology and Education students, face-to-face teaching), Contemporary Issues in Educational Psychology (Masters’ Students, online)
+
+Co-chair (June 2021)
+UCL Changemakers & Centre for Higher Education Studies (Webinar title: Rethinking academic
+writing from reviewer perspectives)
+
+Academic Skills
+======
+
+SPSS, R language, PsychoPy, AMOS, Tobii eye tracker, Python
