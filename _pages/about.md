@@ -10,9 +10,7 @@ redirect_from:
 I am now a PhD candidate at [Department of Psychology and Human Development], [UCL, IOE] (https://www.ucl.ac.uk/ioe/departments-and-centres/departments/psychology-and-human-development). My research interest includes language cognition, difficulty in reading and spelling, and visual attention span.
 I am very fortunate to be adviced by [Prof.Jackie Masterson] (https://profiles.ucl.ac.uk/48106-jackie-masterson), Chair of Psychology of Reading, and [Dr. Liory Fern-Pollak] (https://profiles.ucl.ac.uk/59312-liory-fernpollak/about).
 
-You can find my CV here: [Tianyi's Curriculum Vitae](.../assets/Curriculum_Vitae.pdf)
-
-Email: qtnvt6@ucl.ac.uk
+Email: qtnvtw6@ucl.ac.uk
 
 Educational Background
 ======
@@ -20,9 +18,11 @@ Ph.D. Programme in Psychology and Human Development
 
 UCL,IOE (University College London), UK- ongoing
 
+
 MA in Education (2018-2019)
 
 University of Durham, UK
+
 
 BA in English (2014-2018)
 
@@ -41,6 +41,7 @@ Past Experiences
 UCL Post graduate teaching assistant (PGTA, 2021-2022)
 
 Modules: Research Methods and Statistics (BSc Psychology and Education students, face-to-face teaching), Contemporary Issues in Educational Psychology (Masters’ Students, online)
+
 
 Co-chair (June 2021)
 
