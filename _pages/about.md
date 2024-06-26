@@ -14,7 +14,7 @@ Email: qtnvtw6@ucl.ac.uk
 
 Educational Background
 ======
-Ph.D. Programme in Psychology and Human Development, UCL,IOE (University College London), UK- ongoing
+Ph.D. Programme in Psychology and Human Development, UCL, IOE (University College London), UK- ongoing
 
 MA in Education (2018-2019), University of Durham, UK
 
@@ -28,12 +28,13 @@ Clinical interventions (based on visual attention span) to children and adult wi
 
 Past Experiences
 ======
-UCL Post graduate teaching assistant (PGTA, 2021-2022)
+1. UCL Post graduate teaching assistant (PGTA, 2021-2022)
 
 Modules: Research Methods and Statistics (BSc Psychology and Education students, face-to-face teaching), Contemporary Issues in Educational Psychology (Masters’ Students, online)
 
+Responsibility: Teaching and Marking (essays, poster presentation, report)
 
-Co-chair (June 2021)
+2. Co-chair (June 2021)
 
 UCL Changemakers & Centre for Higher Education Studies (Webinar title: Rethinking academic
 writing from reviewer perspectives)
