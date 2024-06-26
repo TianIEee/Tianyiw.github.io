@@ -18,11 +18,11 @@ Ph.D. Programme in Psychology and Human Development, UCL, IOE (University Colleg
 
 MA in Education (2018-2019), University of Durham, UK
 
-BA in English (2014-2018), BA in Law (Combined degress), Hohai University, Nanjing, China
+BA in English, BA in Law (Combined degress), Hohai University, Nanjing, China (2014-2018)
 
 Research Projects
 ======
-Cross-sectional studies in reading and spelling development in Chinese
+Cross-sectional studies in reading and spelling development in Chinese (one paper was submitted to a journal publication)
 
 Clinical interventions (based on visual attention span) to children and adult with reading difficulty
 
@@ -32,7 +32,7 @@ Past Experiences
 
 Modules: Research Methods and Statistics (BSc Psychology and Education students, face-to-face teaching), Contemporary Issues in Educational Psychology (Masters’ Students, online)
 
-Responsibility: Teaching and Marking (essays, poster presentation, report)
+Responsibility: Teaching and Marking (essays, poster presentation and report)
 
 2. Co-chair (June 2021)
 
