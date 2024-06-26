@@ -14,21 +14,11 @@ Email: qtnvtw6@ucl.ac.uk
 
 Educational Background
 ======
-Ph.D. Programme in Psychology and Human Development
+Ph.D. Programme in Psychology and Human Development, UCL,IOE (University College London), UK- ongoing
 
-UCL,IOE (University College London), UK- ongoing
+MA in Education (2018-2019), University of Durham, UK
 
-
-MA in Education (2018-2019)
-
-University of Durham, UK
-
-
-BA in English (2014-2018)
-
-BA in Law (Combined degress)
-
-Hohai University, Nanjing, China
+BA in English (2014-2018), BA in Law (Combined degress), Hohai University, Nanjing, China
 
 Research Projects
 ======
