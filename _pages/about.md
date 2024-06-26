@@ -11,7 +11,8 @@ I am now a PhD candidate at [Department of Psychology and Human Development], [U
 I am very fortunate to be adviced by [Prof.Jackie Masterson] (https://profiles.ucl.ac.uk/48106-jackie-masterson), Chair of Psychology of Reading, and [Dr. Liory Fern-Pollak] (https://profiles.ucl.ac.uk/59312-liory-fernpollak/about).
 
 You can find my CV here: [Tianyi's Curriculum Vitae](.../assets/Curriculum_Vitae.pdf)
-Email:(qtnvt6@ucl.ac.uk)
+
+Email:qtnvt6@ucl.ac.uk
 
 Educational Background
 ======
