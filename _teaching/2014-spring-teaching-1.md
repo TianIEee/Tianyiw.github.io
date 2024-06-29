@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "UCL postgraduate teaching assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate and Postgraduate course"
+venue: "UCL,main campus"
+date: 2021-2022
+location: "London, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+PHDE0056 Research Methods and Statistics BSc Psychology and Education students (face-to-face teaching) 
 
-Heading 1
-======
+Responsibility: Running in-class activities; marking reports; attendance recording.
 
-Heading 2
-======
+PHDE0080 Contemporary Issues in Educational Psychology for Masters’ Students (online)
 
-Heading 3
+Responsibility: Moderator of discussion sessions; grading of presentations and essays.
+
 ======
